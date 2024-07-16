@@ -352,8 +352,11 @@ body{
 }
 
 .about h2{
-    font-size: 47px;
-    margin-left: -5px;
+    /* font-size: 47px;
+    margin-left: -5px; */
+
+    font-size: 43px;
+    margin-left: -45px;
 }
 .box-area{
     height: 1040px;
@@ -361,15 +364,41 @@ body{
 }
 .wrapper{
     padding: 10px 0%;
+    margin-left: -48px;
 }
 .Hero{
-    margin-top: 27%;
-    margin-left: 12%;
+    /* margin-top: 27%;
+    margin-left: -50px;
+    font-size: 37px; */
+    /* margin-top: 27%; */
+    margin-top: 12%;
+    margin-left: 2px;
+    font-size: 22px;
 }
 .buton{
-    margin-top: 105%;
+    /* margin-top: 105%;
     font-size: 9em;
-    
-    margin-left: 32%;
+    margin-left: 32%; */
+    margin-top: 80%;
+    font-size: 8em;
+    margin-left: 17%;
 }
+
+#btn{
+    /* margin-top: -35px; */
+    margin-left: -241px;
 }
+
+.box img{
+    width: 77%;
+    height: 74%;
+    border-radius: 40px;
+    display: block;
+    transition: transform 0.5s;
+}
+.overlay{
+    width: 82%;
+}
+
+}
+
